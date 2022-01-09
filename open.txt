@@ -1,4 +1,8 @@
 Este é o conteúdo do curso.
 Modificações.
 Tradução
+<<<<<<< HEAD
 Pt
+=======
+Es
+>>>>>>> fedf05965cf7a4bb90c70fef6165ab3cc95e555e
